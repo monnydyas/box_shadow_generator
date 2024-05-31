@@ -146,7 +146,7 @@ h2 {
 }
 
 /* Responsivo */
-@media(max-width: 430px) {
+@media(max-width: 450px) {
     #box-shadow-generator {
         flex-direction: column;
     }
